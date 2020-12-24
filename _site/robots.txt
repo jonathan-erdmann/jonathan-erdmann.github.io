@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: /sitemap.xml
+Sitemap: jonathan-erdmann.github.io//sitemap.xml
