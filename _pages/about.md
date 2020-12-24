@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Content by Jonathan Erdmann - mostly posting about sports betting strategy development and sometimes maybe baking.
+Content by Jonathan Erdmann - mostly posting about sports betting strategy development and sometimes maybe chess or baking.
 
 Feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/jonathanerdmann/)
