@@ -1,17 +1,17 @@
-site: Sidey
+site: JEE
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Jonathan
+description: My first attempt at making a blog
 twitter:
-  username: #yourusername
+  username: nnamdrej
   card: summary
-  creator: #yourusername
+  creator: nnamdrej
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: nnamdrej
+  name: jonathan-erdmann
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: jonathan.erdmann@protonmail.com
+  url: jonathan-erdmann.github.io
 permalink: pretty
 
 baseurl: ""
