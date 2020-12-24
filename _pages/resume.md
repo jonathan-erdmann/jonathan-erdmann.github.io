@@ -40,8 +40,7 @@ Iowa State University <span style="float: right; ">B.S. Aerospace Engineering</s
 
 <br>
 **CERTIFICATIONS**
-- [SAFe Product Owner/Product Manager](/assets/docs/safe5popm.pdf)
-- SAFe Practitioner
+- [SAFe Product Owner/Product Manager](/docs/safe5popm.pdf)
 - [DataCamp Data Scientist with R](https://www.datacamp.com/statement-of-accomplishment/track/b25e458f5fd863711963c8368cece8f2d11b05ac)
 - [DataCamp Machine Learning Scientist with R](https://www.datacamp.com/statement-of-accomplishment/track/c3095c344eafb7f43367657b6ca6c54094832889)
 

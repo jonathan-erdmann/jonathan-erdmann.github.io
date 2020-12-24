@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>jonathan-erdmann.github.io//about</loc>
-<lastmod>2020-12-24T14:41:39-06:00</lastmod>
+<lastmod>2020-12-24T14:50:53-06:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//blog</loc>
-<lastmod>2020-12-24T14:41:39-06:00</lastmod>
+<lastmod>2020-12-24T14:50:53-06:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//resume</loc>
-<lastmod>2020-12-24T14:41:39-06:00</lastmod>
+<lastmod>2020-12-24T14:50:53-06:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//search</loc>
-<lastmod>2020-12-24T14:41:39-06:00</lastmod>
+<lastmod>2020-12-24T14:50:53-06:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//2014/05/12/css-hacks-you-may-not-know</loc>
@@ -126,5 +126,9 @@
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//tag/typography/</loc>
+</url>
+<url>
+<loc>jonathan-erdmann.github.io//docs/safe5popm.pdf</loc>
+<lastmod>2020-12-24T14:50:01-06:00</lastmod>
 </url>
 </urlset>
