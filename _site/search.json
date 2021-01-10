@@ -2,8 +2,19 @@
   
     {
 
-      "title"    : "Sports Bets 2021-01-08",
-      "url"      : "/sports_bet_20210108",
+      "title"    : "Daily 2021-01-10",
+      "url"      : "/daily_bet_20210110",
+      "category" : "",
+      "tags"     : "sports-betting, ncaam, nfl",
+      "date"     : "2021-01-10 00:00:00 -0600",
+      "description" : "Sports Bets 2021-01-08"
+
+    } ,
+  
+    {
+
+      "title"    : "Daily 2021-01-08",
+      "url"      : "/daily_bet_20210108",
       "category" : "",
       "tags"     : "sports-betting, nba",
       "date"     : "2021-01-08 00:00:00 -0600",
@@ -13,8 +24,8 @@
   
     {
 
-      "title"    : "Sports Bets 2021-01-06",
-      "url"      : "/sports_bet_20210106",
+      "title"    : "Daily 2021-01-06",
+      "url"      : "/daily_bet_20210106",
       "category" : "",
       "tags"     : "sports-betting, nba",
       "date"     : "2021-01-06 00:00:00 -0600",

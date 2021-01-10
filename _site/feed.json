@@ -17,12 +17,36 @@
 "items": [
     
         {
-            "id": "jonathan-erdmann.github.io//sports_bet_20210108",
-            "title": "Sports Bets 2021-01-08",
+            "id": "jonathan-erdmann.github.io//daily_bet_20210110",
+            "title": "Daily 2021-01-10",
             "summary": "Sports Bets 2021-01-08",
-            "content_text": "Summary  Starting Capital : $107.30     Total Wagered : $95.06 Remaining Capital : $12.24    Money Returned : $124.98        Proft/Loss : $29.92    Ending Capital : $137.22   Return on Wager : 31.47% Return on Capital : 27.88%Detail      name moneyLine  bet wagered1  CELTICS      -180 0.42   45.032 PELICANS      -275 0.08    8.523    BUCKS      -210 0.08    8.674  ROCKETS      -265 0.07    7.455   LAKERS      -455 0.09    9.426 WARRIORS       210 0.06    6.307    KINGS       160 0.09    9.66Probability of Loss: 0.2658115Profit and Loss DistributionResult      name moneyLine   bet win wagered returned1  CELTICS      -180 0.420   1   45.03    70.052 PELICANS      -275 0.079   0    8.52     0.003    BUCKS      -210 0.081   0    8.67     0.004  ROCKETS      -265 0.069   1    7.45    10.275   LAKERS      -455 0.088   0    9.42     0.006 WARRIORS       210 0.059   1    6.30    19.537    KINGS       160 0.090   1    9.66    25.13",
-            "content_html": "<h3 id=\"summary\">Summary</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  Starting Capital : $107.30     Total Wagered : $95.06 Remaining Capital : $12.24    Money Returned : $124.98        Proft/Loss : $29.92    Ending Capital : $137.22   Return on Wager : 31.47% Return on Capital : 27.88%</code></pre></div></div><h3 id=\"detail\">Detail</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>      name moneyLine  bet wagered1  CELTICS      -180 0.42   45.032 PELICANS      -275 0.08    8.523    BUCKS      -210 0.08    8.674  ROCKETS      -265 0.07    7.455   LAKERS      -455 0.09    9.426 WARRIORS       210 0.06    6.307    KINGS       160 0.09    9.66Probability of Loss: 0.2658115</code></pre></div></div><h3 id=\"profit-and-loss-distribution\">Profit and Loss Distribution</h3><p><img src=\"images/pnlDist_20210108.png\" alt=\"PNL Distribution\" /></p><h3 id=\"result\">Result</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>      name moneyLine   bet win wagered returned1  CELTICS      -180 0.420   1   45.03    70.052 PELICANS      -275 0.079   0    8.52     0.003    BUCKS      -210 0.081   0    8.67     0.004  ROCKETS      -265 0.069   1    7.45    10.275   LAKERS      -455 0.088   0    9.42     0.006 WARRIORS       210 0.059   1    6.30    19.537    KINGS       160 0.090   1    9.66    25.13</code></pre></div></div>",
-            "url": "jonathan-erdmann.github.io//sports_bet_20210108",
+            "content_text": "Summary  Starting Capital : $137.22     Total Wagered : $32.23 Remaining Capital : $104.99    Money Returned : $        Proft/Loss : $    Ending Capital : $   Return on Wager :  Return on Capital : Detail                   name moneyLine    bet  wagered         NCAAM-CAMPBELL      -115 0.0419 5.749518   NCAAM-ILLINOIS STATE       200 0.0418 5.735796             NFL-BROWNS       235 0.0284 3.897048 NCAAM-LOYOLA MARYMOUNT       120 0.0259 3.553998   NCAAM-LOYOLA CHICAGO      -360 0.0225 3.087450       NCAAM-HOLY CROSS       700 0.0150 2.058300           NCAAM-XAVIER      -167 0.0138 1.893636             NFL-TITANS       155 0.0129 1.770138       NCAAM-BINGHAMTON       600 0.0107 1.468254       NCAAM-CHARLESTON      -110 0.0097 1.331034         NCAAM-BUCKNELL       230 0.0077 1.056594     NCAAM-GARDNER-WEBB       525 0.0046 0.631212Expected Profit and Loss DistributionResult",
+            "content_html": "<h3 id=\"summary\">Summary</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  Starting Capital : $137.22     Total Wagered : $32.23 Remaining Capital : $104.99    Money Returned : $        Proft/Loss : $    Ending Capital : $   Return on Wager :  Return on Capital : </code></pre></div></div><h3 id=\"detail\">Detail</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>                   name moneyLine    bet  wagered         NCAAM-CAMPBELL      -115 0.0419 5.749518   NCAAM-ILLINOIS STATE       200 0.0418 5.735796             NFL-BROWNS       235 0.0284 3.897048 NCAAM-LOYOLA MARYMOUNT       120 0.0259 3.553998   NCAAM-LOYOLA CHICAGO      -360 0.0225 3.087450       NCAAM-HOLY CROSS       700 0.0150 2.058300           NCAAM-XAVIER      -167 0.0138 1.893636             NFL-TITANS       155 0.0129 1.770138       NCAAM-BINGHAMTON       600 0.0107 1.468254       NCAAM-CHARLESTON      -110 0.0097 1.331034         NCAAM-BUCKNELL       230 0.0077 1.056594     NCAAM-GARDNER-WEBB       525 0.0046 0.631212</code></pre></div></div><h3 id=\"expected-profit-and-loss-distribution\">Expected Profit and Loss Distribution</h3><p><img src=\"images/pnlDist_20210110.png\" alt=\"PNL Distribution\" /></p><h3 id=\"result\">Result</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code></code></pre></div></div>",
+            "url": "jonathan-erdmann.github.io//daily_bet_20210110",
+            
+            
+            
+            "tags": ["sports-betting","ncaam","nfl"],
+            
+            "date_published": "2021-01-10T00:00:00-06:00",
+            "date_modified": "2021-01-10T00:00:00-06:00",
+            
+                "author":  {
+                "name": "jonathan-erdmann",
+                "url": "jonathan-erdmann.github.io",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "jonathan-erdmann.github.io//daily_bet_20210108",
+            "title": "Daily 2021-01-08",
+            "summary": "Sports Bets 2021-01-08",
+            "content_text": "Summary  Starting Capital : $107.30     Total Wagered : $95.06 Remaining Capital : $12.24    Money Returned : $124.98        Proft/Loss : $29.92    Ending Capital : $137.22   Return on Wager : 31.47% Return on Capital : 27.88%Detail      name moneyLine  bet wagered1  CELTICS      -180 0.42   45.032 PELICANS      -275 0.08    8.523    BUCKS      -210 0.08    8.674  ROCKETS      -265 0.07    7.455   LAKERS      -455 0.09    9.426 WARRIORS       210 0.06    6.307    KINGS       160 0.09    9.66Probability of Loss: 0.2658115Expected Profit and Loss DistributionResult      name moneyLine   bet win wagered returned1  CELTICS      -180 0.420   1   45.03    70.052 PELICANS      -275 0.079   0    8.52     0.003    BUCKS      -210 0.081   0    8.67     0.004  ROCKETS      -265 0.069   1    7.45    10.275   LAKERS      -455 0.088   0    9.42     0.006 WARRIORS       210 0.059   1    6.30    19.537    KINGS       160 0.090   1    9.66    25.13",
+            "content_html": "<h3 id=\"summary\">Summary</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  Starting Capital : $107.30     Total Wagered : $95.06 Remaining Capital : $12.24    Money Returned : $124.98        Proft/Loss : $29.92    Ending Capital : $137.22   Return on Wager : 31.47% Return on Capital : 27.88%</code></pre></div></div><h3 id=\"detail\">Detail</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>      name moneyLine  bet wagered1  CELTICS      -180 0.42   45.032 PELICANS      -275 0.08    8.523    BUCKS      -210 0.08    8.674  ROCKETS      -265 0.07    7.455   LAKERS      -455 0.09    9.426 WARRIORS       210 0.06    6.307    KINGS       160 0.09    9.66Probability of Loss: 0.2658115</code></pre></div></div><h3 id=\"expected-profit-and-loss-distribution\">Expected Profit and Loss Distribution</h3><p><img src=\"images/pnlDist_20210108.png\" alt=\"PNL Distribution\" /></p><h3 id=\"result\">Result</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>      name moneyLine   bet win wagered returned1  CELTICS      -180 0.420   1   45.03    70.052 PELICANS      -275 0.079   0    8.52     0.003    BUCKS      -210 0.081   0    8.67     0.004  ROCKETS      -265 0.069   1    7.45    10.275   LAKERS      -455 0.088   0    9.42     0.006 WARRIORS       210 0.059   1    6.30    19.537    KINGS       160 0.090   1    9.66    25.13</code></pre></div></div>",
+            "url": "jonathan-erdmann.github.io//daily_bet_20210108",
             
             
             
@@ -41,12 +65,12 @@
         },
     
         {
-            "id": "jonathan-erdmann.github.io//sports_bet_20210106",
-            "title": "Sports Bets 2021-01-06",
+            "id": "jonathan-erdmann.github.io//daily_bet_20210106",
+            "title": "Daily 2021-01-06",
             "summary": "Sports Bets 2021-01-06",
             "content_text": "Summary  Starting Capital : $100.00     Total Wagered : $99.83 Remaining Capital : $0.17    Money Returned : $107.14    Ending Capital : $107.30   Return on Wager : 7.32% Return on Capital : 7.30%Detail   name moneyLine   bet   win wagered returned1  ORL      -230  0.0498    1    4.98     7.142  PHI      -230  0.1351    1   13.51    19.383  BOS       123  0.0017    1    0.17     0.394   NY       270  0.1703    1   17.03    62.995  ATL      -230  0.2572    0   25.72     0.006  DET       575  0.2761    0   27.61     0.007  PHO      -148  0.0631    1    6.31    10.578  LAC      -122  0.0122    1    1.22     2.219  SAC      -286  0.0330    1    3.30     4.45",
             "content_html": "<h3 id=\"summary\">Summary</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  Starting Capital : $100.00     Total Wagered : $99.83 Remaining Capital : $0.17    Money Returned : $107.14    Ending Capital : $107.30   Return on Wager : 7.32% Return on Capital : 7.30%</code></pre></div></div><h3 id=\"detail\">Detail</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>   name moneyLine   bet   win wagered returned1  ORL      -230  0.0498    1    4.98     7.142  PHI      -230  0.1351    1   13.51    19.383  BOS       123  0.0017    1    0.17     0.394   NY       270  0.1703    1   17.03    62.995  ATL      -230  0.2572    0   25.72     0.006  DET       575  0.2761    0   27.61     0.007  PHO      -148  0.0631    1    6.31    10.578  LAC      -122  0.0122    1    1.22     2.219  SAC      -286  0.0330    1    3.30     4.45</code></pre></div></div>",
-            "url": "jonathan-erdmann.github.io//sports_bet_20210106",
+            "url": "jonathan-erdmann.github.io//daily_bet_20210106",
             
             
             
