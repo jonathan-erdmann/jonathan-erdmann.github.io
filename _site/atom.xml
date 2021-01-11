@@ -4,13 +4,60 @@
  <title>Jonathan</title>
  <link href="jonathan-erdmann.github.io//atom.xml" rel="self"/>
  <link href="jonathan-erdmann.github.io//"/>
- <updated>2021-01-10T21:12:25-06:00</updated>
+ <updated>2021-01-11T13:15:46-06:00</updated>
  <id>jonathan-erdmann.github.io/</id>
  <author>
    <name>jonathan-erdmann</name>
    <email>jonathan.erdmann@protonmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Daily 2021-01-11</title>
+   <link href="jonathan-erdmann.github.io//daily_bet_20210111"/>
+   <updated>2021-01-11T00:00:00-06:00</updated>
+   <id>jonathan-erdmann.github.io//Daily_20210111</id>
+   <content type="html">&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Starting Capital : $170.24
+     Total Wagered : $
+ Remaining Capital : $
+    Money Returned : $
+        Proft/Loss : $
+    Ending Capital : $
+   Return on Wager : 
+ Return on Capital : 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;detail&quot;&gt;Detail&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                       name moneyLine    bet wagered
+                  NBA-76ERS       205 0.0605   10.30
+                  NBA-MAGIC       370 0.0394    6.71
+                  NBA-KINGS       175 0.0273    4.65
+          NCAAB-BOISE STATE      -335 0.0231    3.94
+           NCAAF-OHIO STATE       240 0.0223    3.80
+                NBA-HORNETS      -180 0.0146    2.49
+       NCAAB-TEXAS SOUTHERN       112 0.0145    2.48
+                NBA-WIZARDS       205 0.0111    1.90
+       NCAAB-LOYOLA CHICAGO      -335 0.0109    1.85
+             NCAAB-COLORADO      -162 0.0092    1.57
+              NCAAB-BRADLEY       104 0.0059    1.01
+ NCAAB-SOUTH CAROLINA STATE       700 0.0041    0.70
+              NBA-CAVALIERS       117 0.0021    0.35
+                NBA-RAPTORS       165 0.0006    0.11
+
+Esitmated probability of Loss: 0.2708371
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;expected-profit-and-loss-distribution&quot;&gt;Expected Profit and Loss Distribution&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/pnl20210111.png&quot; alt=&quot;PNL Distribution&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;result&quot;&gt;Result&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily 2021-01-10</title>
