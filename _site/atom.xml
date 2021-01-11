@@ -4,7 +4,7 @@
  <title>Jonathan</title>
  <link href="jonathan-erdmann.github.io//atom.xml" rel="self"/>
  <link href="jonathan-erdmann.github.io//"/>
- <updated>2021-01-10T14:57:34-06:00</updated>
+ <updated>2021-01-10T21:12:25-06:00</updated>
  <id>jonathan-erdmann.github.io/</id>
  <author>
    <name>jonathan-erdmann</name>
@@ -21,11 +21,11 @@
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Starting Capital : $137.22
      Total Wagered : $32.48
  Remaining Capital : $104.73
-    Money Returned : $
-        Proft/Loss : $
-    Ending Capital : $
-   Return on Wager : 
- Return on Capital : 
+    Money Returned : $65.51
+        Proft/Loss : $33.02
+    Ending Capital : $170.24
+   Return on Wager : 101.67%
+ Return on Capital : 24.07%
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;detail&quot;&gt;Detail&lt;/h3&gt;
@@ -59,7 +59,25 @@ Esitmated probability of Loss: 0.3115657
 
 &lt;h3 id=&quot;result&quot;&gt;Result&lt;/h3&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                          name moneyLine    bet wagered win_loss returned
+          NCAAM-ILLINOIS STATE       200 0.0395    5.42        1    16.27
+                NCAAM-CAMPBELL      -115 0.0320    4.39        0     0.00
+                    NFL-BROWNS       235 0.0290    3.98        1    13.34
+        NCAAM-LOYOLA MARYMOUNT       120 0.0215    2.95        1     6.49
+              NCAAM-HOLY CROSS       700 0.0182    2.50        1    20.01
+          NCAAM-LOYOLA CHICAGO      -360 0.0149    2.05        0     0.00
+              NCAAM-BINGHAMTON       600 0.0137    1.88        0     0.00
+                    NFL-TITANS       155 0.0118    1.61        0     0.00
+                  NCAAM-XAVIER      -167 0.0099    1.36        1     2.18
+              NCAAM-CHARLESTON      -110 0.0075    1.04        1     1.98
+                 NCAAM-BRADLEY      -105 0.0070    0.97        0     0.00
+     NCAAM-CHARLESTON SOUTHERN       132 0.0059    0.80        0     0.00
+                    NCAAM-NAVY      -435 0.0056    0.76        1     0.94
+ NCAAM-NORT CAROLINA ASHEVILLE      -143 0.0054    0.73        1     1.25
+                    NCAAM-UMBC      -148 0.0052    0.72        1     1.20
+           NCAAM-NORFOLK STATE      -157 0.0046    0.64        1     1.04
+                    NCAAM-IOWA      -530 0.0034    0.46        1     0.55
+                    NFL-SAINTS      -530 0.0016    0.21        1     0.26
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </content>
  </entry>
