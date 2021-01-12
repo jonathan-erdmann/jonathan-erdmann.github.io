@@ -45,11 +45,13 @@ Iowa State University <span style="float: right; ">B.S. Aerospace Engineering</s
 - [DataCamp Machine Learning Scientist with R](https://www.datacamp.com/statement-of-accomplishment/track/c3095c344eafb7f43367657b6ca6c54094832889)
 
 <br>
+<!--
 **RECOGNITION & INTERESTS**
 - Special Olympics
 - Husband of the year 3x
 - Father of the year 2x
 - Parent of the year runner-up 2x
+-->
 
 <span style="float: right; "><a href="https://www.linkedin.com/in/jonathanerdmann/"><strong>> LinkedIn</strong></a> </span>
 <br>
