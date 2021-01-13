@@ -4,13 +4,62 @@
  <title>Jonathan</title>
  <link href="jonathan-erdmann.github.io//atom.xml" rel="self"/>
  <link href="jonathan-erdmann.github.io//"/>
- <updated>2021-01-12T22:51:58-06:00</updated>
+ <updated>2021-01-13T13:06:35-06:00</updated>
  <id>jonathan-erdmann.github.io/</id>
  <author>
    <name>jonathan-erdmann</name>
    <email>jonathan.erdmann@protonmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Daily 2021-01-13</title>
+   <link href="jonathan-erdmann.github.io//daily_bet_20210113"/>
+   <updated>2021-01-13T00:00:00-06:00</updated>
+   <id>jonathan-erdmann.github.io//Daily_20210113</id>
+   <content type="html">&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Starting Capital :  $158.87
+     Total Wagered :  $39.65
+ Remaining Capital :  $
+    Money Returned :  $
+        Proft/Loss :  $
+    Ending Capital :  $
+   Return on Wager :  
+ Return on Capital : 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;detail&quot;&gt;Detail&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                         name moneyLine         bet
+            NCAAB-Boise State      -480 0.007377203
+          NCAAB-McNeese State      -124 0.017746081
+                  NCAAB-Tulsa       155 0.022224612
+               NCAAB-Duquesne       235 0.025116790
+               NCAAB-Virginia      -590 0.002159803
+               NCAAB-NC State       140 0.013803398
+       NCAAB-Central Arkansas       380 0.026921680
+                NCAAB-Citadel       750 0.034276128
+      NCAAB-George Washington       500 0.028192406
+            NCAAB-Wake Forest       280 0.017725804
+                NCAAB-Wofford      -225 0.003764172
+                    NCAAB-LSU      -124 0.005905627
+ NCAAB-Southeastern Louisiana      -115 0.005920905
+                NCAAB-Georgia      -115 0.005390806
+      NCAAB-Mississippi State      -335 0.001958431
+              NBA-OKC Thunder       295 0.013151522
+               NCAAB-La Salle       170 0.008673938
+            NCAAB-Chattanooga      -105 0.005205127
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;expected-profit-and-loss-distribution&quot;&gt;Expected Profit and Loss Distribution&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/pnl20210113.png&quot; alt=&quot;PNL Distribution&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;result&quot;&gt;Result&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily 2021-01-12 (-2.91%)</title>
