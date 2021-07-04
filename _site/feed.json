@@ -41,30 +41,6 @@
         },
     
         {
-            "id": "jonathan-erdmann.github.io//overall_result_20210701",
-            "title": "Overall Results through 2021-07-01 (+21.09%)",
-            "summary": "Overall Betting Results through 2021-07-01",
-            "content_text": "Summary  After four betting days, the return on capital is +21.09%  This return on capital represents an average geometric return of +4.9%Thoughts  Wager scaling with half Kelly Bet sizing is the only risk aversion mechanism used so far  Additional risk aversion considerations will be added to the betting strategy  Different sports may require unique strategy elements  The expected profit/loss distributions by day are highly variable  There will be significant losses on betting days in the future!  Positive return after four betting days is not conclusive - many more days are necessary",
-            "content_html": "<h2 id=\"summary\">Summary</h2><ul>  <li>After four betting days, the return on capital is +21.09%</li>  <li>This return on capital represents an average geometric return of +4.9%</li></ul><p><img src=\"../images/overall20210701.png\" alt=\"image\" /></p><h2 id=\"thoughts\">Thoughts</h2><ul>  <li>Wager scaling with half Kelly Bet sizing is the only risk aversion mechanism used so far</li>  <li>Additional risk aversion considerations will be added to the betting strategy</li>  <li>Different sports may require unique strategy elements</li>  <li>The expected profit/loss distributions by day are highly variable</li>  <li>There will be significant losses on betting days in the future!</li>  <li>Positive return after four betting days is not conclusive - many more days are necessary</li></ul><p><img src=\"../images/expectedReturnByDay20210702.png\" alt=\"image\" /></p>",
-            "url": "jonathan-erdmann.github.io//overall_result_20210701",
-            
-            
-            
-            
-            
-            "date_published": "2021-07-02T00:00:00-05:00",
-            "date_modified": "2021-07-02T00:00:00-05:00",
-            
-                "author":  {
-                "name": "jonathan-erdmann",
-                "url": "jonathan-erdmann.github.io",
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
             "id": "jonathan-erdmann.github.io//daily_bet_20210702",
             "title": "Daily Bet 2021-07-02 (-7.41%)",
             "summary": "Sports Bets 2021-07-02",
@@ -76,8 +52,32 @@
             
             "tags": ["sports-betting","mlb"],
             
-            "date_published": "2021-07-02T00:00:00-05:00",
-            "date_modified": "2021-07-02T00:00:00-05:00",
+            "date_published": "2021-07-02T02:00:00-05:00",
+            "date_modified": "2021-07-02T02:00:00-05:00",
+            
+                "author":  {
+                "name": "jonathan-erdmann",
+                "url": "jonathan-erdmann.github.io",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "jonathan-erdmann.github.io//overall_result_20210701",
+            "title": "Overall Results through 2021-07-01 (+21.09%)",
+            "summary": "Overall Betting Results through 2021-07-01",
+            "content_text": "Summary  After four betting days, the return on capital is +21.09%  This return on capital represents an average geometric return of +4.9%Thoughts  Wager scaling with half Kelly Bet sizing is the only risk aversion mechanism used so far  Additional risk aversion considerations will be added to the betting strategy  Different sports may require unique strategy elements  The expected profit/loss distributions by day are highly variable  There will be significant losses on betting days in the future!  Positive return after four betting days is not conclusive - many more days are necessary",
+            "content_html": "<h2 id=\"summary\">Summary</h2><ul>  <li>After four betting days, the return on capital is +21.09%</li>  <li>This return on capital represents an average geometric return of +4.9%</li></ul><p><img src=\"../images/overall20210701.png\" alt=\"image\" /></p><h2 id=\"thoughts\">Thoughts</h2><ul>  <li>Wager scaling with half Kelly Bet sizing is the only risk aversion mechanism used so far</li>  <li>Additional risk aversion considerations will be added to the betting strategy</li>  <li>Different sports may require unique strategy elements</li>  <li>The expected profit/loss distributions by day are highly variable</li>  <li>There will be significant losses on betting days in the future!</li>  <li>Positive return after four betting days is not conclusive - many more days are necessary</li></ul><p><img src=\"../images/expectedReturnByDay20210702.png\" alt=\"image\" /></p>",
+            "url": "jonathan-erdmann.github.io//overall_result_20210701",
+            
+            
+            
+            
+            
+            "date_published": "2021-07-02T01:00:00-05:00",
+            "date_modified": "2021-07-02T01:00:00-05:00",
             
                 "author":  {
                 "name": "jonathan-erdmann",
