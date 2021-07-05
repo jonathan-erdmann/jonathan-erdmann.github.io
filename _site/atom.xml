@@ -4,13 +4,36 @@
  <title>Jonathan</title>
  <link href="jonathan-erdmann.github.io//atom.xml" rel="self"/>
  <link href="jonathan-erdmann.github.io//"/>
- <updated>2021-07-04T12:38:07-05:00</updated>
+ <updated>2021-07-05T09:17:07-05:00</updated>
  <id>jonathan-erdmann.github.io/</id>
  <author>
    <name>jonathan-erdmann</name>
    <email>jonathan.erdmann@protonmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Bet 2021-07-04 (-3.71%)</title>
+   <link href="jonathan-erdmann.github.io//daily_bet_20210704"/>
+   <updated>2021-07-04T00:00:00-05:00</updated>
+   <id>jonathan-erdmann.github.io//Daily_20210704</id>
+   <content type="html">&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Starting Capital : $100.00
+     Total Wagered : $3.71
+ Remaining Capital : $96.29
+    Money Returned : $0.00
+    Ending Capital : $96.29
+   Return on Wager : -100.00%
+ Return on Capital : -3.71%
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;expected-profitloss-distribution-and-actual-result&quot;&gt;Expected Profit/Loss Distribution and Actual Result&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../images/actual20210704.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;overall-betting-results&quot;&gt;Overall Betting Results&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../images/overall20210704.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Bet 2021-07-03 (+5.45%)</title>
@@ -171,16 +194,12 @@
    <updated>2021-06-21T00:00:00-05:00</updated>
    <id>jonathan-erdmann.github.io//Basic_Strategy_20210621</id>
    <content type="html">&lt;h3 id=&quot;motivation&quot;&gt;Motivation&lt;/h3&gt;
-&lt;p&gt;Profitable sports betting strategies have been described in academic settings and the combination of easily accessible data alongside sufficient computational resources means implemention is very accessible to real world bettors! I am using this site to record my implementation and results in hopes that online sports betting is legalized in Texas.&lt;/p&gt;
+&lt;p&gt;Profitable sports betting strategies have been described in academic settings and the combination of freely available data alongside sufficient computational resources means implemention is accessible to real world bettors! I am using this site to record my implementation and results in hopes that online sports betting is legalized in Texas.&lt;/p&gt;
 
 &lt;h3 id=&quot;fundamental-description&quot;&gt;Fundamental Description&lt;/h3&gt;
 &lt;p&gt;The underlying principal of this sports betting strategy is the generalization of Kelly Bet sizing to multiple, simultaneously played games. In reality, the games do not necessarily take place simultaneously other than from the perspective of the bettor who is interested in allocating capital to multiple favorable games taking place at a higher frequency than they can place bets.&lt;/p&gt;
 
 &lt;p&gt;Optimization of capital allocation is executed using only payout odds and estimates of probability. At the time of the initial implementation only money line bets are considered and estimated win probabilities are used from online sources. Optimization enhancement and risk aversion mechanisms will be discussed in future posts and potentially added to the betting strategy. Win probability estimation modeling, while interesting, is unlikely to be incorporated into the strategy as there are excellent free sources currently available.&lt;/p&gt;
-
-&lt;h3 id=&quot;example-kelly-bet-sizing-for-a-single-game&quot;&gt;Example: Kelly Bet Sizing for a Single Game&lt;/h3&gt;
-
-&lt;h3 id=&quot;example-kelly-bet-sizing-for-two-simultaneous-games&quot;&gt;Example: Kelly Bet Sizing for Two Simultaneous Games&lt;/h3&gt;
 
 &lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
 &lt;ul&gt;

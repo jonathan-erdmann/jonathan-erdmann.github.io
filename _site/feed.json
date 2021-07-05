@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "jonathan-erdmann.github.io//daily_bet_20210704",
+            "title": "Daily Bet 2021-07-04 (-3.71%)",
+            "summary": "Sports Bets 2021-07-04",
+            "content_text": "Summary  Starting Capital : $100.00     Total Wagered : $3.71 Remaining Capital : $96.29    Money Returned : $0.00    Ending Capital : $96.29   Return on Wager : -100.00% Return on Capital : -3.71%Expected Profit/Loss Distribution and Actual ResultOverall Betting Results",
+            "content_html": "<h3 id=\"summary\">Summary</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  Starting Capital : $100.00     Total Wagered : $3.71 Remaining Capital : $96.29    Money Returned : $0.00    Ending Capital : $96.29   Return on Wager : -100.00% Return on Capital : -3.71%</code></pre></div></div><h3 id=\"expected-profitloss-distribution-and-actual-result\">Expected Profit/Loss Distribution and Actual Result</h3><p><img src=\"../images/actual20210704.png\" alt=\"image\" /></p><h3 id=\"overall-betting-results\">Overall Betting Results</h3><p><img src=\"../images/overall20210704.png\" alt=\"image\" /></p>",
+            "url": "jonathan-erdmann.github.io//daily_bet_20210704",
+            
+            
+            
+            "tags": ["sports-betting","nba"],
+            
+            "date_published": "2021-07-04T00:00:00-05:00",
+            "date_modified": "2021-07-04T00:00:00-05:00",
+            
+                "author":  {
+                "name": "jonathan-erdmann",
+                "url": "jonathan-erdmann.github.io",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "jonathan-erdmann.github.io//daily_bet_20210703",
             "title": "Daily Bet 2021-07-03 (+5.45%)",
             "summary": "Sports Bets 2021-07-03",
@@ -26,7 +50,7 @@
             
             
             
-            "tags": ["sports-betting","mlb"],
+            "tags": ["sports-betting","mlb","nba"],
             
             "date_published": "2021-07-03T00:00:00-05:00",
             "date_modified": "2021-07-03T00:00:00-05:00",
@@ -188,8 +212,8 @@
             "id": "jonathan-erdmann.github.io//basic_strategy_20210621",
             "title": "Basic Sports Betting Strategy",
             "summary": "Sports Betting Strategy Basics",
-            "content_text": "MotivationProfitable sports betting strategies have been described in academic settings and the combination of easily accessible data alongside sufficient computational resources means implemention is very accessible to real world bettors! I am using this site to record my implementation and results in hopes that online sports betting is legalized in Texas.Fundamental DescriptionThe underlying principal of this sports betting strategy is the generalization of Kelly Bet sizing to multiple, simultaneously played games. In reality, the games do not necessarily take place simultaneously other than from the perspective of the bettor who is interested in allocating capital to multiple favorable games taking place at a higher frequency than they can place bets.Optimization of capital allocation is executed using only payout odds and estimates of probability. At the time of the initial implementation only money line bets are considered and estimated win probabilities are used from online sources. Optimization enhancement and risk aversion mechanisms will be discussed in future posts and potentially added to the betting strategy. Win probability estimation modeling, while interesting, is unlikely to be incorporated into the strategy as there are excellent free sources currently available.Example: Kelly Bet Sizing for a Single GameExample: Kelly Bet Sizing for Two Simultaneous GamesReferences  The Kelly Criterion Wikipedia  The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market by Edward Thorpe",
-            "content_html": "<h3 id=\"motivation\">Motivation</h3><p>Profitable sports betting strategies have been described in academic settings and the combination of easily accessible data alongside sufficient computational resources means implemention is very accessible to real world bettors! I am using this site to record my implementation and results in hopes that online sports betting is legalized in Texas.</p><h3 id=\"fundamental-description\">Fundamental Description</h3><p>The underlying principal of this sports betting strategy is the generalization of Kelly Bet sizing to multiple, simultaneously played games. In reality, the games do not necessarily take place simultaneously other than from the perspective of the bettor who is interested in allocating capital to multiple favorable games taking place at a higher frequency than they can place bets.</p><p>Optimization of capital allocation is executed using only payout odds and estimates of probability. At the time of the initial implementation only money line bets are considered and estimated win probabilities are used from online sources. Optimization enhancement and risk aversion mechanisms will be discussed in future posts and potentially added to the betting strategy. Win probability estimation modeling, while interesting, is unlikely to be incorporated into the strategy as there are excellent free sources currently available.</p><h3 id=\"example-kelly-bet-sizing-for-a-single-game\">Example: Kelly Bet Sizing for a Single Game</h3><h3 id=\"example-kelly-bet-sizing-for-two-simultaneous-games\">Example: Kelly Bet Sizing for Two Simultaneous Games</h3><h3 id=\"references\">References</h3><ul>  <li><a href=\"https://en.wikipedia.org/wiki/Kelly_criterion\">The Kelly Criterion Wikipedia</a></li>  <li><a href=\"https://wayback.archive-it.org/all/20090320125959/http://www.edwardothorp.com/sitebuildercontent/sitebuilderfiles/KellyCriterion2007.pdf\">The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market by Edward Thorpe</a></li></ul>",
+            "content_text": "MotivationProfitable sports betting strategies have been described in academic settings and the combination of freely available data alongside sufficient computational resources means implemention is accessible to real world bettors! I am using this site to record my implementation and results in hopes that online sports betting is legalized in Texas.Fundamental DescriptionThe underlying principal of this sports betting strategy is the generalization of Kelly Bet sizing to multiple, simultaneously played games. In reality, the games do not necessarily take place simultaneously other than from the perspective of the bettor who is interested in allocating capital to multiple favorable games taking place at a higher frequency than they can place bets.Optimization of capital allocation is executed using only payout odds and estimates of probability. At the time of the initial implementation only money line bets are considered and estimated win probabilities are used from online sources. Optimization enhancement and risk aversion mechanisms will be discussed in future posts and potentially added to the betting strategy. Win probability estimation modeling, while interesting, is unlikely to be incorporated into the strategy as there are excellent free sources currently available.References  The Kelly Criterion Wikipedia  The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market by Edward Thorpe",
+            "content_html": "<h3 id=\"motivation\">Motivation</h3><p>Profitable sports betting strategies have been described in academic settings and the combination of freely available data alongside sufficient computational resources means implemention is accessible to real world bettors! I am using this site to record my implementation and results in hopes that online sports betting is legalized in Texas.</p><h3 id=\"fundamental-description\">Fundamental Description</h3><p>The underlying principal of this sports betting strategy is the generalization of Kelly Bet sizing to multiple, simultaneously played games. In reality, the games do not necessarily take place simultaneously other than from the perspective of the bettor who is interested in allocating capital to multiple favorable games taking place at a higher frequency than they can place bets.</p><p>Optimization of capital allocation is executed using only payout odds and estimates of probability. At the time of the initial implementation only money line bets are considered and estimated win probabilities are used from online sources. Optimization enhancement and risk aversion mechanisms will be discussed in future posts and potentially added to the betting strategy. Win probability estimation modeling, while interesting, is unlikely to be incorporated into the strategy as there are excellent free sources currently available.</p><h3 id=\"references\">References</h3><ul>  <li><a href=\"https://en.wikipedia.org/wiki/Kelly_criterion\">The Kelly Criterion Wikipedia</a></li>  <li><a href=\"https://wayback.archive-it.org/all/20090320125959/http://www.edwardothorp.com/sitebuildercontent/sitebuilderfiles/KellyCriterion2007.pdf\">The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market by Edward Thorpe</a></li></ul>",
             "url": "jonathan-erdmann.github.io//basic_strategy_20210621",
             
             

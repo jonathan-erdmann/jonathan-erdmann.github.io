@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>jonathan-erdmann.github.io//about</loc>
-<lastmod>2021-07-04T12:38:07-05:00</lastmod>
+<lastmod>2021-07-05T09:17:07-05:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//blog</loc>
-<lastmod>2021-07-04T12:38:07-05:00</lastmod>
+<lastmod>2021-07-05T09:17:07-05:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//resume</loc>
-<lastmod>2021-07-04T12:38:07-05:00</lastmod>
+<lastmod>2021-07-05T09:17:07-05:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//search</loc>
-<lastmod>2021-07-04T12:38:07-05:00</lastmod>
+<lastmod>2021-07-05T09:17:07-05:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//basic_strategy_20210621</loc>
@@ -47,6 +47,10 @@
 <url>
 <loc>jonathan-erdmann.github.io//daily_bet_20210703</loc>
 <lastmod>2021-07-03T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>jonathan-erdmann.github.io//daily_bet_20210704</loc>
+<lastmod>2021-07-04T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>jonathan-erdmann.github.io//</loc>
