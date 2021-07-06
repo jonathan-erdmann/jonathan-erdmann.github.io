@@ -2,10 +2,21 @@
   
     {
 
+      "title"    : "Daily Bet 2021-07-05 (+3.80%)",
+      "url"      : "/daily_bet_20210705",
+      "category" : "",
+      "tags"     : "sports-betting, mlb",
+      "date"     : "2021-07-05 00:00:00 -0500",
+      "description" : "Sports Bets 2021-07-05"
+
+    } ,
+  
+    {
+
       "title"    : "Daily Bet 2021-07-04 (-3.71%)",
       "url"      : "/daily_bet_20210704",
       "category" : "",
-      "tags"     : "sports-betting, nba",
+      "tags"     : "sports-betting, nba, mlb",
       "date"     : "2021-07-04 00:00:00 -0500",
       "description" : "Sports Bets 2021-07-04"
 

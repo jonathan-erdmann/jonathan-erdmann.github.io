@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "jonathan-erdmann.github.io//daily_bet_20210705",
+            "title": "Daily Bet 2021-07-05 (+3.80%)",
+            "summary": "Sports Bets 2021-07-05",
+            "content_text": "Summary  Starting Capital : $100.00     Total Wagered : $10.42 Remaining Capital : $89.58    Money Returned : $14.22    Ending Capital : $103.80   Return on Wager : +36.42% Return on Capital : +3.80%Expected Profit/Loss Distribution and Actual ResultOverall Betting Results",
+            "content_html": "<h3 id=\"summary\">Summary</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  Starting Capital : $100.00     Total Wagered : $10.42 Remaining Capital : $89.58    Money Returned : $14.22    Ending Capital : $103.80   Return on Wager : +36.42% Return on Capital : +3.80%</code></pre></div></div><h3 id=\"expected-profitloss-distribution-and-actual-result\">Expected Profit/Loss Distribution and Actual Result</h3><p><img src=\"../images/actual20210705.png\" alt=\"image\" /></p><h3 id=\"overall-betting-results\">Overall Betting Results</h3><p><img src=\"../images/overall20210705.png\" alt=\"image\" /></p>",
+            "url": "jonathan-erdmann.github.io//daily_bet_20210705",
+            
+            
+            
+            "tags": ["sports-betting","mlb"],
+            
+            "date_published": "2021-07-05T00:00:00-05:00",
+            "date_modified": "2021-07-05T00:00:00-05:00",
+            
+                "author":  {
+                "name": "jonathan-erdmann",
+                "url": "jonathan-erdmann.github.io",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "jonathan-erdmann.github.io//daily_bet_20210704",
             "title": "Daily Bet 2021-07-04 (-3.71%)",
             "summary": "Sports Bets 2021-07-04",
@@ -26,7 +50,7 @@
             
             
             
-            "tags": ["sports-betting","nba"],
+            "tags": ["sports-betting","nba","mlb"],
             
             "date_published": "2021-07-04T00:00:00-05:00",
             "date_modified": "2021-07-04T00:00:00-05:00",
