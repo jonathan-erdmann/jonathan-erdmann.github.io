@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "jonathan-erdmann.github.io//daily_bet_20210706",
+            "title": "Daily Bet 2021-07-06 (+2.54%)",
+            "summary": "Sports Bets 2021-07-06",
+            "content_text": "Summary  Starting Capital : $100.00     Total Wagered : $18.07 Remaining Capital : $81.93    Money Returned : $20.61    Ending Capital : $102.54   Return on Wager : +14.07% Return on Capital : +2.54%Expected Profit/Loss Distribution and Actual ResultOverall Betting ResultsRunning Geometric Return",
+            "content_html": "<h3 id=\"summary\">Summary</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  Starting Capital : $100.00     Total Wagered : $18.07 Remaining Capital : $81.93    Money Returned : $20.61    Ending Capital : $102.54   Return on Wager : +14.07% Return on Capital : +2.54%</code></pre></div></div><h3 id=\"expected-profitloss-distribution-and-actual-result\">Expected Profit/Loss Distribution and Actual Result</h3><p><img src=\"../images/actual20210706.png\" alt=\"image\" /></p><h3 id=\"overall-betting-results\">Overall Betting Results</h3><p><img src=\"../images/overall20210706.png\" alt=\"image\" /></p><h3 id=\"running-geometric-return\">Running Geometric Return</h3><p><img src=\"../images/return20210706.png\" alt=\"image\" /></p>",
+            "url": "jonathan-erdmann.github.io//daily_bet_20210706",
+            
+            
+            
+            "tags": ["sports-betting","mlb","nba"],
+            
+            "date_published": "2021-07-06T00:00:00-05:00",
+            "date_modified": "2021-07-06T00:00:00-05:00",
+            
+                "author":  {
+                "name": "jonathan-erdmann",
+                "url": "jonathan-erdmann.github.io",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "jonathan-erdmann.github.io//daily_bet_20210705",
             "title": "Daily Bet 2021-07-05 (+3.80%)",
             "summary": "Sports Bets 2021-07-05",
