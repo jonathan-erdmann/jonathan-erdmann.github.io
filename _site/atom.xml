@@ -4,13 +4,39 @@
  <title>Jonathan</title>
  <link href="jonathan-erdmann.github.io//atom.xml" rel="self"/>
  <link href="jonathan-erdmann.github.io//"/>
- <updated>2021-07-06T23:37:48-05:00</updated>
+ <updated>2021-07-07T23:14:10-05:00</updated>
  <id>jonathan-erdmann.github.io/</id>
  <author>
    <name>jonathan-erdmann</name>
    <email>jonathan.erdmann@protonmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Daily Bet 2021-07-07 (-0.02%)</title>
+   <link href="jonathan-erdmann.github.io//daily_bet_20210707"/>
+   <updated>2021-07-07T00:00:00-05:00</updated>
+   <id>jonathan-erdmann.github.io//Daily_20210707</id>
+   <content type="html">&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Starting Capital : $100.00
+     Total Wagered : $6.44
+ Remaining Capital : $93.56
+    Money Returned : $6.42
+    Ending Capital : $99.98
+   Return on Wager : -0.26%
+ Return on Capital : -0.02%
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;expected-profitloss-distribution-and-actual-result&quot;&gt;Expected Profit/Loss Distribution and Actual Result&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../images/actual20210707.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;overall-betting-results&quot;&gt;Overall Betting Results&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../images/overall20210707.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;running-geometric-return&quot;&gt;Running Geometric Return&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../images/return20210707.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Daily Bet 2021-07-06 (+2.54%)</title>

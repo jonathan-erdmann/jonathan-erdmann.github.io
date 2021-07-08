@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "jonathan-erdmann.github.io//daily_bet_20210707",
+            "title": "Daily Bet 2021-07-07 (-0.02%)",
+            "summary": "Sports Bets 2021-07-07",
+            "content_text": "Summary  Starting Capital : $100.00     Total Wagered : $6.44 Remaining Capital : $93.56    Money Returned : $6.42    Ending Capital : $99.98   Return on Wager : -0.26% Return on Capital : -0.02%Expected Profit/Loss Distribution and Actual ResultOverall Betting ResultsRunning Geometric Return",
+            "content_html": "<h3 id=\"summary\">Summary</h3><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>  Starting Capital : $100.00     Total Wagered : $6.44 Remaining Capital : $93.56    Money Returned : $6.42    Ending Capital : $99.98   Return on Wager : -0.26% Return on Capital : -0.02%</code></pre></div></div><h3 id=\"expected-profitloss-distribution-and-actual-result\">Expected Profit/Loss Distribution and Actual Result</h3><p><img src=\"../images/actual20210707.png\" alt=\"image\" /></p><h3 id=\"overall-betting-results\">Overall Betting Results</h3><p><img src=\"../images/overall20210707.png\" alt=\"image\" /></p><h3 id=\"running-geometric-return\">Running Geometric Return</h3><p><img src=\"../images/return20210707.png\" alt=\"image\" /></p>",
+            "url": "jonathan-erdmann.github.io//daily_bet_20210707",
+            
+            
+            
+            "tags": ["sports-betting","mlb"],
+            
+            "date_published": "2021-07-07T00:00:00-05:00",
+            "date_modified": "2021-07-07T00:00:00-05:00",
+            
+                "author":  {
+                "name": "jonathan-erdmann",
+                "url": "jonathan-erdmann.github.io",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "jonathan-erdmann.github.io//daily_bet_20210706",
             "title": "Daily Bet 2021-07-06 (+2.54%)",
             "summary": "Sports Bets 2021-07-06",
