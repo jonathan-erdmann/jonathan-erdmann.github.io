@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Jonathan Erdmann
+title: Resume
+permalink: /resume/
 ---
 
 **Experience**
