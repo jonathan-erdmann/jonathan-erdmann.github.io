@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Jonathan Erdmann
 permalink: /resume/
 ---
 
