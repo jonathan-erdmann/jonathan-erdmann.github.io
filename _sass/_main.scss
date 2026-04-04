@@ -200,3 +200,7 @@ section {
 figcaption {
     font-size: smaller;
 }
+
+section h2:first-child {
+        margin-top: 0;
+}
