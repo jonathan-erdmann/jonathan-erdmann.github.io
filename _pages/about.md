@@ -47,4 +47,3 @@ journal.
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jonathanerdmann/)
-- [GitHub](https://github.com/jonathan-erdmann)
