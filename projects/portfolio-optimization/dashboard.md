@@ -6,7 +6,7 @@ permalink: /projects/portfolio-optimization/dashboard/
 
 ## Daily Pipeline Dashboard
 
-**Last updated:** April 05, 2026 19:26 CDT
+**Last updated:** April 06, 2026 05:39 CDT
 
 ---
 
@@ -14,7 +14,9 @@ permalink: /projects/portfolio-optimization/dashboard/
 
 | Team | ML | Market% | Posterior% | EV% | Kelly% | Bet by | Book |
 |---|---|---|---|---|---|---|---|
-| Cleveland Guardians | +116 | 45.8% | 49.5% | 6.9% | 1.49% | 10:45 CDT | BetUS |
+| Pittsburgh Pirates | -126 | 54.6% | 57.8% | 3.6% | 1.15% | 15:40 CDT | FanDuel |
+| Milwaukee Brewers | -109 | 51.2% | 53.7% | 3.0% | 0.80% | 15:45 CDT | BetUS |
+| Miami Marlins | -125 | 54.5% | 56.9% | 2.4% | 0.75% | 15:40 CDT | BetMGM |
 
 ---
 
