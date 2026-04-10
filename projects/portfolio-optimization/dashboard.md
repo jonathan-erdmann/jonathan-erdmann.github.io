@@ -6,14 +6,18 @@ permalink: /projects/portfolio-optimization/dashboard/
 
 ## Daily Pipeline Dashboard
 
-**Last updated:** April 10, 2026 09:32 CDT
+**Last updated:** April 10, 2026 10:14 CDT
 
 ---
 
 ### Today's +EV Opportunities
 
-
-*No positive EV opportunities identified today.*
+| Team | ML | Market% | Posterior% | EV% | Kelly% | Bet by | Book |
+|---|---|---|---|---|---|---|---|
+| Washington Nationals | +174 | 35.6% | 37.8% | 3.6% | 0.52% | 16:40 CDT | LowVig.ag |
+| Los Angeles Angels | +163 | 37.5% | 39.3% | 3.3% | 0.51% | 15:45 CDT | BetOnline.ag |
+| Arizona Diamondbacks | +158 | 38.0% | 39.8% | 2.7% | 0.43% | 15:40 CDT | BetOnline.ag |
+| Chicago White Sox | +155 | 38.3% | 40.2% | 2.6% | 0.42% | 16:40 CDT | LowVig.ag |
 
 ---
 
