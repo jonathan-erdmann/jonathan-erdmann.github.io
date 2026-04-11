@@ -6,7 +6,7 @@ permalink: /projects/portfolio-optimization/dashboard/
 
 ## Daily Pipeline Dashboard
 
-**Last updated:** April 11, 2026 06:00 CDT
+**Last updated:** April 11, 2026 08:25 CDT
 
 ---
 
@@ -14,10 +14,10 @@ permalink: /projects/portfolio-optimization/dashboard/
 
 | Team | ML | Market% | Posterior% | EV% | Kelly% | Bet by | Book |
 |---|---|---|---|---|---|---|---|
-| Tampa Bay Rays | +171 | 36.3% | 40.4% | 9.5% | 1.40% | 15:10 CDT | BetOnline.ag |
-| St. Louis Cardinals | +123 | 43.8% | 47.6% | 6.1% | 1.25% | 16:15 CDT | LowVig.ag |
-| Arizona Diamondbacks | +122 | 44.5% | 46.1% | 2.2% | 0.46% | 10:05 CDT | BetOnline.ag |
-| Miami Marlins | +125 | 43.4% | 45.0% | 1.3% | 0.26% | 10:10 CDT | LowVig.ag |
+| Tampa Bay Rays | +171 | 36.4% | 40.6% | 9.9% | 1.45% | 15:10 CDT | MyBookie.ag |
+| St. Louis Cardinals | +122 | 43.9% | 47.7% | 5.8% | 1.19% | 16:15 CDT | LowVig.ag |
+| Arizona Diamondbacks | +121 | 44.6% | 46.1% | 1.9% | 0.40% | 10:05 CDT | BetOnline.ag |
+| Miami Marlins | +124 | 43.8% | 45.2% | 1.1% | 0.23% | 10:10 CDT | FanDuel |
 
 ---
 
