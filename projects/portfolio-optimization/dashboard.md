@@ -6,18 +6,14 @@ permalink: /projects/portfolio-optimization/dashboard/
 
 ## Daily Pipeline Dashboard
 
-**Last updated:** April 11, 2026 16:36 CDT
+**Last updated:** April 12, 2026 08:20 CDT
 
 ---
 
 ### Today's +EV Opportunities
 
-| Team | ML | Market% | Posterior% | EV% | Kelly% | Bet by | Book |
-|---|---|---|---|---|---|---|---|
-| Tampa Bay Rays | +171 | 36.4% | 40.6% | 9.9% | 1.45% | 15:10 CDT | MyBookie.ag |
-| St. Louis Cardinals | +122 | 43.9% | 47.7% | 5.8% | 1.19% | 16:15 CDT | LowVig.ag |
-| Arizona Diamondbacks | +121 | 44.6% | 46.1% | 1.9% | 0.40% | 10:05 CDT | BetOnline.ag |
-| Miami Marlins | +124 | 43.8% | 45.2% | 1.1% | 0.23% | 10:10 CDT | DraftKings |
+
+*No positive EV opportunities identified today.*
 
 ---
 
