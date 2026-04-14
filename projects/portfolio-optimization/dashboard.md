@@ -6,7 +6,7 @@ permalink: /projects/portfolio-optimization/dashboard/
 
 ## Daily Pipeline Dashboard
 
-**Last updated:** April 14, 2026 15:48 CDT
+**Last updated:** April 14, 2026 15:49 CDT
 
 ---
 
@@ -14,8 +14,11 @@ permalink: /projects/portfolio-optimization/dashboard/
 
 | Team | ML | Market% | Posterior% | EV% | Kelly% | Bet by | Book |
 |---|---|---|---|---|---|---|---|
-| Athletics | +900 | 46.1% | 47.9% | 379.1% | 3.00% | 18:40 CDT | FanDuel |
-| New York Mets | +1060 | 40.4% | 39.7% | 360.2% | 3.00% | 19:10 CDT | FanDuel |
+| New York Mets | +240 | 40.4% | 39.5% | 34.5% | 3.00% | 19:10 CDT | Bovada |
+| St. Louis Cardinals | +115 | 46.2% | 47.5% | 2.1% | 0.64% | 16:45 CDT | LowVig.ag |
+| Minnesota Twins | +124 | 44.4% | 45.5% | 1.9% | 0.55% | 16:40 CDT | LowVig.ag |
+| Milwaukee Brewers | -113 | 52.2% | 53.8% | 1.3% | 0.51% | 16:40 CDT | LowVig.ag |
+| Athletics | +112 | 46.1% | 47.7% | 1.1% | 0.34% | 18:40 CDT | LowVig.ag |
 
 ---
 
